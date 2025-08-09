@@ -31,8 +31,6 @@ gcc main.c intro.c menu.c game.c scores.c render.c -I SDL2-2.30.10/include -L SD
 
 - **SPACE** : Shoot
 
-- **ESC** : Return to menu / exit
-
 ### 4. Notes
 
 - **cour.ttf** must be in the same folder as the executable for text rendering.
