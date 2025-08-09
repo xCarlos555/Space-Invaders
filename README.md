@@ -1,6 +1,6 @@
 # Space Invaders
 
-A **Space Invaders** game developed in **C** using **SDL2** and **SDL2_ttf**.
+A **Space Invaders** clone developed in **C** using **SDL2** and **SDL2_ttf**.
 
 ## How to set up and run
 
