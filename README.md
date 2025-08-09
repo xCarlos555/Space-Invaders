@@ -6,8 +6,6 @@ A **Space Invaders** clone developed in **C** using **SDL2** and **SDL2_ttf**.
  
 Make sure you have a C compiler installed (GCC).
 
----
-
 ### 1. Compile the game
 
 Make sure you are in the project’s root folder, where all `.c` and `.h` files are located.
