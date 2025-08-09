@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "*.py": "python",
-        "sdl.h": "c",
-        "render.h": "c",
-        "menu.h": "c"
-    }
-}
