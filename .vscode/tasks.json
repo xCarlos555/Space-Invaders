@@ -1,0 +1,37 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Space Invaders",
+            "type": "shell",
+            "command": "gcc",
+            "args": [
+                "main.c",
+                "intro.c",
+                "menu.c",
+                "game.c",
+                "scores.c",
+                "render.c",
+                "-I",
+                "SDL2-2.30.10/include",
+                "-L",
+                "SDL2-2.30.10/lib/x64",
+                "-lSDL2",
+                "-lSDL2_ttf",
+                "-o",
+                "main.exe"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "problemMatcher": [
+                "$gcc"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "detail": "Compile Space Invaders with SDL2 and SDL2_ttf (multi-file)"
+        }
+    ]
+}
