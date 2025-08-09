@@ -3,8 +3,7 @@
 A **Space Invaders** clone developed in **C** using **SDL2** and **SDL2_ttf**.
 
 ## How to set up and run
-
-This guide provides a way to have everything properly set up and ready to use. 
+ 
 Make sure you have a C compiler installed (GCC).
 
 ---
